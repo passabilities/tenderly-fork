@@ -1,0 +1,30 @@
+{
+  "project": {
+    "slug": "bnpl",
+    "fork": {
+      "id": "9b9d6e22-fae5-407a-b98d-07249d3aa20e",
+      "name": "Offchain Offer Upgrade Test 2",
+      "description": "Created with tendfork CLI",
+      "network_id": "1",
+      "block_number": "16387146",
+      "details": {
+        "chain_config": {
+          "chain_id": "1"
+        }
+      },
+      "accounts": {
+        "0x030fBd1e0Eb1025267Ac8eA6669CbF276154DE9f": "0x971f9240c154d15d774ab9b9e24763461186d947aa92731ea8e16af28b9ea933",
+        "0x1Fb2a1b31CeB12c4f2EDAc7966e5B675BfB97623": "0xba04c3c2521c7749886c0316eabdfeb09a887673829cab857f3cd420a260a856",
+        "0x586fcCb93E2817dF3c34D5919df0CC4400fad658": "0x6f1a28b2f03de67aec860d0b1d33f3c31688fbf7afd4063e7c3754b44c4cd4fc",
+        "0x5F3BDB5b9a2e02Df95aEe7E76D4e879afbf7099D": "0x127fb5a763ce0b3ad7c01119572f340079ab0d15724a4117a3d97cd89e3f5e93",
+        "0x7f455cAa4Dc4DadF6B8d83F1A6302713fdb39B2d": "0xd83fa58df3eddc95c9a86c4eb16407e8353d4be5f30d3739b6f8aa50a7ef5d57",
+        "0x9b11A91190EE27327eE51C0c26591001f75BfD16": "0xa9f4bf7eac796b1a89f3da0d91095f7fa0fa3c5c54b16aa8da031217eb38d5c7",
+        "0xC8a394cB31601299744db784047B726f9d871cE7": "0xef7224d7f0aae08a4d5c677619dfc576bb305fa0183eab8f6da30adc5759238b",
+        "0xD827a4Efd1979Fe3875726d31dfb1E43d5f00E9d": "0x483ab9059f59b16a6192db45b856de052c0ba3b5c85456944793c852dfd53693",
+        "0xFaCa3B313f4fcb88369A5C1af7671dE7bD0a1E0c": "0x6ab21e85ab154dd90de853f96a4c1572fd1f8038a475827a92076277817eedc4",
+        "0xff28c3Ee2E3621820b7408A93bCd0f0138B34511": "0x38ad941029673d1f2d281818cec423e8c3c8ff9df2126fcc30648fd97870c591"
+      },
+      "json_rpc_url": "https://rpc.tenderly.co/fork/9b9d6e22-fae5-407a-b98d-07249d3aa20e"
+    }
+  }
+}
